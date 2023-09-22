@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrCatNerd
-- 👀 I’m interested in Math, Computer Science and GUI
-- 🌱 I’m currently learning Math and Computer Science (C, C++, Rust and Python)
-- 💞️ I’m looking to collaborate on C, Python and Rust projects and Game Jams with Python (and pygame)
+- 👀 I’m interested in Math, Computer Science and graphics programming
+- 🌱 I’m currently learning Math, Computer Science (C, C++, Rust and Python) and graphics programming
+- 💞️ I’m looking to collaborate on C/C++, Python and Rust projects and Game Jams with Python (and pygame)
 - 📫 How to reach me: Discord: MrCatNerd#0669
 
 <!---
