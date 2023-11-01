@@ -5,10 +5,10 @@
 - 📫 How to reach me: Discord: `MrCatNerd#0669`
 
 ### 💀: My Stats :
-<a href="https://github.com/echasnovski">
+<a href="https://github.com/MrCatNerd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcatnerd&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
 </a>
-<a href="https://github.com/echasnovski">
+<a href="https://github.com/MrCatNerd">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrcatnerd&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=MrCatNerd&style=flat-square&color=blue" alt=""/>
