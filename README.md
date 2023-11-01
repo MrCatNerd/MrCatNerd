@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on C/C++, Python and Rust projects and Game Jams with Python (and pygame)
 - 📫 How to reach me: Discord: `MrCatNerd#0669`
 
-### 💀: My Stats :
+### 💀 My Stats :
 <a href="https://github.com/MrCatNerd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcatnerd&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
 </a>
