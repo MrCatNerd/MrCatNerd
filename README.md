@@ -1,3 +1,5 @@
+![](https://github.com/MrCatNerd/MrCatNerd/blob/main/assets/ghgif.gif)
+
 - 👋 Hi, I’m `@MrCatNerd`
 - 👀 I’m interested in Math, Computer Science and Graphics Programming
 - 🌱 I’m currently learning C, C++, Rust, Go and Python and Graphics Programming and MySql
