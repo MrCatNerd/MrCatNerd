@@ -1,4 +1,4 @@
-![](https://github.com/MrCatNerd/MrCatNerd/blob/main/assets/ghgif.gif)
+![](https://github.com/MrCatNerd/MrCatNerd/blob/main/assets/ghgif.gif) <!-- shamelessly stolen from github-->
 
 - 👋 Hi, I’m `@MrCatNerd`
 - 👀 I’m interested in Math, Computer Science and Graphics Programming
