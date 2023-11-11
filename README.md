@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on C/C++, Python and Rust projects and Game Jams with Python (and pygame)
 - 📫 How to reach me: Discord: `MrCatNerd#0669`
 - 💻 member of the `Hatol™` organization
+- ⚡ Fun fact: I love cats if you didn't notice
 
 ### 💀 My Stats :
 <a href="https://github.com/MrCatNerd">
