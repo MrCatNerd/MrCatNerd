@@ -1,11 +1,11 @@
-![](https://github.com/MrCatNerd/MrCatNerd/blob/main/assets/ghgif.gif) <!-- shamelessly stolen from github-->
+![](https://github.com/MrCatNerd/MrCatNerd/blob/main/assets/ghgif.gif) <!-- shamelessly stolen from github's loading animation-->
 
-- 👋 Hi, I’m `@MrCatNerd`
-- 👀 I’m interested in Math, Computer Science and Graphics Programming
-- 🌱 I’m currently learning C, C++, Rust, Go, Python, Graphics Programming and MySql
-- 💞️ I’m looking to collaborate on C/C++, Python and Rust projects and Game Jams with Python (and pygame)
-- 📫 How to reach me: Discord: `MrCatNerd#0669`
-- 💻 member of the `Hatol™` organization
+- 👋 Hello there! I'm `@MrCatNerd`.
+- 👀 I'm into Math and Computer Science.
+- 🌱 I'm learning C, C++, Rust, Go, Python, Graphics programming, and MySQL.
+- 💞️ I'm open to teaming up on C/C++, Python, or Rust projects. Also, I like joining Game Jams, especially with Pygame using Python.
+- 📫 You can chat with me via Discord: `MrCatNerd#0669`.
+- 💻 I'm a member of the `Hatol™` organization.
 - ⚡ Fun fact: I love cats if you didn't notice
 
 ### 💀 My Stats :
