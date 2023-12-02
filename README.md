@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m `@MrCatNerd`
 - 👀 I’m interested in Math, Computer Science and Graphics Programming
-- 🌱 I’m currently learning C, C++, Rust, Go and Python and Graphics Programming and MySql
+- 🌱 I’m currently learning C, C++, Rust, Go and Python, Graphics Programming and MySql
 - 💞️ I’m looking to collaborate on C/C++, Python and Rust projects and Game Jams with Python (and pygame)
 - 📫 How to reach me: Discord: `MrCatNerd#0669`
 - 💻 member of the `Hatol™` organization
