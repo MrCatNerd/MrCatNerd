@@ -1,7 +1,7 @@
 <img src="https://github.com/MrCatNerd/MrCatNerd/blob/main/assets/catgobrrr.gif" width="50%">
 
-I am MrCat, I like teaming up on projects and game jams
-Contact me via Discord: `MrCatNerd#0669`
+I am MrCat, I like teaming up on projects and game jams<br>
+Contact me via Discord: `MrCatNerd#0669`<br>
 I use Neovim btw
 
 ### 💀 My Stats:
