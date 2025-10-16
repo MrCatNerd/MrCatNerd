@@ -1,4 +1,4 @@
-![](https://github.com/MrCatNerd/MrCatNerd/blob/main/assets/ghgif.gif) <!-- shamelessly stolen from github's loading animation-->
+![](https://github.com/MrCatNerd/MrCatNerd/blob/main/assets/catgobrrr.gif)
 
 - 👋 Hello there! I'm `@MrCatNerd`.
 - 💞️ I'm open to teaming up on C/C++, Python, or Rust projects. I also enjoy Game Jams.
